@@ -49,7 +49,7 @@ $(document).ready(function(){
         e.preventDefault
         $('html').animate({
             scrollTop: galeria
-        }, 500)
+        }, 200)
     });
     
         $('#btn-ubicacion').on('click', function(e){
